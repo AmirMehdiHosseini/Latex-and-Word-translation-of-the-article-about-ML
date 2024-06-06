@@ -1,0 +1,729 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.9)  16 MAR 2021 10:43
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**tmp.tex
+(./tmp.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(c:/texlive/2020/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count187
+\output=\toks16
+\linenoprevgraf=\count188
+\linenumbersep=\dimen141
+\linenumberwidth=\dimen142
+\c@linenumber=\count189
+\c@pagewiselinenumber=\count190
+\c@LN@truepage=\count191
+\c@internallinenumber=\count192
+\c@internallinenumbers=\count193
+\quotelinenumbersep=\dimen143
+\bframerule=\dimen144
+\bframesep=\dimen145
+\bframebox=\box47
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count194
+)
+(c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box48
+)
+(./tmp.aux)
+\openout1 = `tmp.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+ (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen146
+\scratchbox=\box49
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen147
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks18
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(c:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(c:/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(c:/texlive/2020/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 9
+2.
+
+(c:/texlive/2020/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
+ [1
+
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+<Images/Flowchar.pdf, id=13, 379.37434pt x 766.18044pt>
+File: Images/Flowchar.pdf Graphic file (type pdf)
+<use Images/Flowchar.pdf>
+Package pdftex.def Info: Images/Flowchar.pdf  used on input line 154.
+(pdftex.def)             Requested size: 310.4979pt x 627.12631pt.
+
+
+LaTeX Warning: Float too large for page by 101.07076pt on input line 157.
+
+
+Overfull \hbox (21.91736pt too wide) in paragraph at lines 161--165
+\OT1/cmr/m/n/10 ment txs:///view-log Views the log file for the cur-rent doc-u-
+ment txs:///conditionally-
+ []
+
+
+Overfull \hbox (5.86185pt too wide) in paragraph at lines 161--165
+\OT1/cmr/m/n/10 ac-cepts the fol-low-ing op-tions (txs:///internal-pdf-viewer) 
+to mod-ify its be-haviour: 
+ []
+
+
+Overfull \hbox (4.41727pt too wide) in paragraph at lines 166--177
+\OT1/cmr/m/n/10 (embedded|windowed) Does not change any ex-ist-ing em-bed-ded/w
+indowed view-
+ []
+
+[3] [4 <./Images/flowchar.pdf>]
+Overfull \hbox (18.05641pt too wide) in paragraph at lines 178--184
+\OT1/cmr/m/n/10 Tools/Kind/LaTeX, Tools/Kind/Rerunnable, Tools/Kind/Pdf, Tools/
+Kind/Stdout,
+ []
+
+[5]
+Overfull \hbox (1.47272pt too wide) in paragraph at lines 228--230
+[]\OT1/cmr/m/n/10 1.4.1 Con-fig-ur-ing the spell checker TeXs-tu-dio of-fers an
+ in-te-grated spellchecker
+ []
+
+
+Overfull \hbox (47.13974pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 down-load-ing a dic-tio-nary ex-ten-sion of http://wiki.service
+s.openoffice.org/wiki/Dictionaries
+ []
+
+[6]
+Overfull \hbox (17.77841pt too wide) in paragraph at lines 247--252
+[]\OT1/cmr/m/n/10 1.4.2 Con-fig-ur-ing the the-saurus The the-saurus uses OpenO
+f-fice.org 2.x databases.
+ []
+
+
+Overfull \hbox (122.65825pt too wide) in paragraph at lines 247--252
+\OT1/cmr/m/n/10 TeXs-tu-dio. Users can down-load oth-ers databases here : http:
+//wiki.services.openoffice.org/wiki/Dictionaries
+ []
+
+[7] [8] [9]
+Overfull \hbox (18.52838pt too wide) in paragraph at lines 326--327
+[]\OT1/cmr/m/n/10 You can also type your own pream-ble model in the ed-i-tor : 
+with the "Copy/paste"
+ []
+
+[10] [11] [12] [13]
+Overfull \hbox (0.61176pt too wide) in paragraph at lines 495--498
+[]\OT1/cmr/m/n/10 2.15 Spe-cial Com-mands Delete word/command/environment With 
+the short-
+ []
+
+
+Overfull \hbox (79.64003pt too wide) in paragraph at lines 499--501
+\OT1/cmr/m/n/10 "\OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 begin\OMS/cmsy/m/n/10 f\OT
+1/cmr/m/n/10 tabular\OMS/cmsy/m/n/10 g\OT1/cmr/m/n/10 ...\OMS/cmsy/m/n/10 nfg\O
+T1/cmr/m/n/10 end\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 tabular\OMS/cmsy/m/n/10 g\OT
+1/cmr/m/n/10 " con-struc-tion to "\OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 begin\OMS
+/cmsy/m/n/10 f\OT1/cmr/m/n/10 tabularx\OMS/cmsy/m/n/10 g\OT1/cmr/m/n/10 ...\OMS
+/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 end\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 tabularx\O
+MS/cmsy/m/n/10 g\OT1/cmr/m/n/10 ",
+ []
+
+[14] [15] [16] [17]
+Overfull \hbox (1.12569pt too wide) in paragraph at lines 637--676
+[]\OT1/cmr/m/n/10 Command De-scrip-tion Global scope alert(str), in-for-ma-tion
+(str), warn-ing(str)
+ []
+
+[18]
+Overfull \hbox (14.20439pt too wide) in paragraph at lines 677--683
+\OT1/cmr/m/n/10 true\OMS/cmsy/m/n/10 g \OT1/cmr/m/n/10 only re-places; does not
+ in-sert any-thing if the se-lec-tion is empty \OMS/cmsy/m/n/10 f\OT1/cmr/m/n/1
+0 "onlyEmpty":
+ []
+
+[19]
+Overfull \hbox (45.99144pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 s.toUpperCase();\OMS/cmsy/m/n/10 g\OT1/cmr/m/n/10 ) Con-verts t
+he cur-rent se-lec-tion to up-per-case. ed-i-tor.insertSnippet(text);
+ []
+
+
+Overfull \hbox (65.53783pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 unin-dent se-lec-tion ed-i-tor.commentSelection(); com-ment se-
+lec-tion ed-i-tor.uncommentSelection();
+ []
+
+
+Overfull \hbox (57.67664pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 un-com-ment se-lec-tion ed-i-tor.clearPlaceHolders(); clear pla
+ce hold-ers ed-i-tor.nextPlaceHolder();
+ []
+
+
+Overfull \hbox (65.75089pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 pos-si-ble ed-i-tor.document().expand(lineNr) Ex-pands the line
+ ed-i-tor.document().collapse(lineNr)
+ []
+
+
+Overfull \hbox (46.4174pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 Col-lapses or ex-pands the first block be-fore lineNr ed-i-tor.
+document().getMasterDocument();
+ []
+
+
+Overfull \hbox (137.27867pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 Re-turns the open doc-u-ment which di-rectly in-cludes this doc
+-u-ment ed-i-tor.document().getTopMasterDocument();
+ []
+
+
+Overfull \hbox (24.19518pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 Dep-re-cated: Use get-Root-Doc-u-ment() in-stead ed-i-tor.docum
+ent().getRootDocument();
+ []
+
+
+Overfull \hbox (15.38965pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 it-self in-cluded by any other doc-u-ment ed-i-tor.document().g
+etMagicComment(name);
+ []
+
+
+Overfull \hbox (86.97307pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 Re-turns the con-tent of a magic com-ment, if it ex-ists ed-i-t
+or.document().updateMagicComment(name,
+ []
+
+
+Overfull \hbox (81.51009pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 value, [cre-ate = false]); Changes a magic com-ment ed-i-tor.do
+cument().labelItems/refItems/bibItems
+ []
+
+
+Overfull \hbox (6.02843pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 ager.currentDocument Cur-rent doc-u-ment (usu-ally the same as 
+ed-i-tor.document(),
+ []
+
+
+Overfull \hbox (9.66737pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 mas-ter doc-u-ment doc-u-ment-Man-ager.getMasterDocumentForDoc(
+document) Dep-
+ []
+
+
+Overfull \hbox (155.22325pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 re-cated: Use get-Root-Doc-u-ment-For-Doc(document) in-stead do
+c-u-ment-Man-ager.getRootDocumentForDoc(document)
+ []
+
+
+Overfull \hbox (130.55666pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 cur-sorEnums.StartOfBlock = StartOfLine cur-sorEnums.StartOfWor
+d cur-sorEnums.StartOfWordOrCommand
+ []
+
+
+Overfull \hbox (2.973pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 sorEnums.End cur-sorEnums.EndOfLine cur-sorEnums.EndOfBlock = E
+nd-OfLine
+ []
+
+
+Overfull \hbox (44.91753pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 cur-sorEnums.EndOfWord cur-sorEnums.EndOfWordOrCommand cur-sorE
+nums.NextWord
+ []
+
+
+Overfull \hbox (55.22296pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 Mode are: cur-sorEnums.MoveAnchor cur-sorEnums.KeepAnchor cur-s
+orEnums.ThroughWrap
+ []
+
+
+Overfull \hbox (28.09325pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 cur-sor.moveTo(int line, int col-umn); move cur-sor to line and
+ col-umn cur-sor.eraseLine();
+ []
+
+
+Overfull \hbox (15.80609pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 tor.insertText) cur-sor.selectedText() re-turn the se-lected te
+xt cur-sor.clearSelection();
+ []
+
+
+Overfull \hbox (87.03764pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 clears se-lec-tion cur-sor.removeSelectedText(); re-moves se-le
+cted text cur-sor.replaceSelectedText(text);
+ []
+
+
+Overfull \hbox (49.50995pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 cur-sor cur-sor.deletePreviousChar(); re-moves char left to the
+ cur-sor cur-sor.beginEditBlock();
+ []
+
+
+Overfull \hbox (87.1121pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 an ab-so-lute one app.load(file) Loads an file app.fileOpen/Sav
+e/Close/.../editUndo/.../QuickBuild/...
+ []
+
+
+Overfull \hbox (21.32475pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 app.completerIsVisible() check if com-pleter is vis-i-ble. app.
+newManagedMenu([parent
+ []
+
+
+Overfull \hbox (89.1953pt too wide) in paragraph at lines 684--835
+\OT1/cmr/m/n/10 ent]) Cre-ates a QWid-get* de-scribed in the string app.slowOpe
+rationStarted()/slowOperationEnded()
+ []
+
+[20] [21]
+Overfull \hbox (25.13849pt too wide) in paragraph at lines 839--852
+[]\OT1/cmr/m/n/10 Copy cur-rent file name to clip-board: %SCRIPT app.clipboard 
+= ed-i-tor.fileName();
+ []
+
+
+Overfull \hbox (38.55638pt too wide) in paragraph at lines 839--852
+\OT1/cmr/m/n/10 cre-ated doc-u-ment newEd-i-tor.setText(Object.getOwnPropertyNa
+mes(obj).join("\OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 n"));
+ []
+
+[22]
+Overfull \hbox (64.1942pt too wide) in paragraph at lines 853--869
+\OT1/cmr/m/n/10 Ad-di-tional ac-tion in the edit menu %SCRIPT var menu = app.ge
+tManagedMenu("main/edit");
+ []
+
+
+Overfull \hbox (1.52846pt too wide) in paragraph at lines 853--869
+\OT1/cmr/m/n/10 //get edit menu var act = app.newManagedAction(menu, "script", 
+"scripttest");
+ []
+
+
+Overfull \hbox (1.22298pt too wide) in paragraph at lines 853--869
+\OT1/cmr/m/n/10 //load di-a-log ui.accepted.connect(function()\OMS/cmsy/m/n/10 
+f\OT1/cmr/m/n/10 alert("x");\OMS/cmsy/m/n/10 g\OT1/cmr/m/n/10 ) //re-act to di-
+a-log clos-
+ []
+
+
+Overfull \hbox (0.93593pt too wide) in paragraph at lines 853--869
+\OT1/cmr/m/n/10 ing reg-is-terAs-Back-ground-Script("abc"); //keep func-tion va
+lid ui.show(); //show
+ []
+
+
+Overfull \hbox (43.94534pt too wide) in paragraph at lines 897--898
+\OT1/cmr/m/n/10 full com-plex ex-am-ple: (?language:latex)(?highlighted-as:comm
+ent,commentTodo)FIXME.
+ []
+
+[23]
+Overfull \hbox (108.91225pt too wide) in paragraph at lines 924--930
+\OT1/cmr/m/n/10 text\OMS/cmsy/m/n/10 g \OT1/cmr/m/n/10 (ex-ter-nal link) \OMS/c
+msy/m/n/10 nfg\OT1/cmr/m/n/10 ttwplink\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 page3.h
+tml\OMS/cmsy/m/n/10 gf\OT1/cmr/m/n/10 my text\OMS/cmsy/m/n/10 g \OT1/cmr/m/n/10
+ (in-ter-nal link) \OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 ttwplink\OMS/cmsy/m/n/10
+ f\OT1/cmr/m/n/10 name[]of[]a[]label\OMS/cmsy/m/n/10 gf\OT1/cmr/m/n/10 my
+ []
+
+[24]
+Overfull \hbox (237.8624pt too wide) in paragraph at lines 951--952
+[]\OT1/cmr/m/n/10 Jump to a line in a run-ning Suma-tra (Win-dows only): dde://
+/SUMATRA/control/[ForwardSearch("?am.pdf","?c:am.tex",@,0,0,1)] 
+ []
+
+
+Overfull \hbox (81.33435pt too wide) in paragraph at lines 953--954
+\OT1/cmr/m/n/10 dde:///(your suma-tra path):SUMATRA/control/[ForwardSearch("?am
+.pdf","?c:am.tex",@,0,0,1)] 
+ []
+
+
+Overfull \hbox (74.30536pt too wide) in paragraph at lines 957--958
+[]\OT1/cmr/m/n/10 A pos-si-ble value for (your Suma-tra path) is C:/Program Fil
+es/SumatraPDF/SumatraPDF.exe 
+ []
+
+
+Overfull \hbox (446.73795pt too wide) in paragraph at lines 967--979
+\OT1/cmr/m/n/10 DC: Jump to a po-si-tion in a run-ning Adobe Reader (Win-dows o
+nly): dde:///acroviewR15/control/[DocOpen("?am.pdf")][FileOpen("?am.pdf")][DocG
+otoNameDest("?am.pdf","jump-
+ []
+
+
+Overfull \hbox (262.73758pt too wide) in paragraph at lines 967--979
+\OT1/cmr/m/n/10 DC\OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 Reader\OMS/cmsy/m/n/10 nf
+g\OT1/cmr/m/n/10 AcroRd32.exe":acroviewR15/control/[DocOpen("?am.pdf")][FileOpe
+n("?am.pdf")][DocGotoNameDest("?am.pdf","jump-
+ []
+
+
+Overfull \hbox (375.97382pt too wide) in paragraph at lines 980--981
+[]\OT1/cmr/m/n/10 Close the doc-u-ment in a run-ning Adobe Reader (Win-dows onl
+y): dde:///acroviewR15/control/[DocOpen("?am.pdf")][FileOpen("?am.pdf")][DocClo
+se("?am.pdf")] 
+ []
+
+[25]
+Overfull \hbox (65.97314pt too wide) in paragraph at lines 1004--1006
+[]\OT1/cmr/m/n/10 Skim Launch Skim from TeXs-tu-dio: (your Skim path)/Contents/
+SharedSupport/displayline
+ []
+
+
+Overfull \hbox (92.50095pt too wide) in paragraph at lines 1007--1008
+[]\OT1/cmr/m/n/10 Launch TeXs-tu-dio from skim: Com-mand: /ap-pli-ca-tions/texs
+tudio.app/contents/macos/texstudio
+ []
+
+
+Overfull \hbox (58.63976pt too wide) in paragraph at lines 1011--1013
+[]\OT1/cmr/m/n/10 qpdfview Launch qpdfview from TeXs-tu-dio: qpdfview --unique 
+?am.pdf#src:?c:am.tex:@:0
+ []
+
+
+Overfull \hbox (82.47081pt too wide) in paragraph at lines 1034--1040
+[]\OT1/cmr/m/n/10 % !TeX TXS-SCRIPT = foo-bar % //Trig-ger = ?load-this-file % 
+app.load("/tmp/test/test.tex");
+ []
+
+[26]
+Overfull \hbox (48.05418pt too wide) in paragraph at lines 1070--1165
+\OT1/cmr/m/n/10 Left : Ctrl+Shift+L Right : Ctrl+Shift+R "User" menu : User tag
+s : Shift+F1...Shift+F10
+ []
+
+
+Overfull \hbox (15.02847pt too wide) in paragraph at lines 1070--1165
+\OT1/cmr/m/n/10 u-ment : Ctrl+PgDown Next Doc-u-ment : Ctrl+PgUp Fo-cus Ed-i-to
+r : Ctrl+Alt+Left
+ []
+
+[27]
+Overfull \hbox (13.88025pt too wide) in paragraph at lines 1176--1190
+\OT1/cmr/m/n/10 should be used to in-di-cate that a pack-age de-pends on other 
+pack-ages. #repl:<search>
+ []
+
+[28]
+Overfull \hbox (2.69516pt too wide) in paragraph at lines 1191--1193
+\OT1/cmr/m/n/10 just de-fine a stop po-si-tion for the cur-sor by %| (Ex-am-ple
+: \OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 left(%|\OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/1
+0 right))
+ []
+
+
+Overfull \hbox (127.7232pt too wide) in paragraph at lines 1191--1193
+\OT1/cmr/m/n/10 or use %< %> to mark only part of an op-tion as place-holder (E
+x-am-ple: \OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 includegraphics[scale=%<1%>]\OMS/
+cmsy/m/n/10 f\OT1/cmr/m/n/10 file\OMS/cmsy/m/n/10 g\OT1/cmr/m/n/10 ).
+ []
+
+[29] [30]
+Overfull \hbox (36.80637pt too wide) in paragraph at lines 1265--1278
+\OT1/cmr/m/n/10 spec\OMS/cmsy/m/n/10 g\OT1/cmr/m/n/10 #s#%color adds name to th
+e spe-cial list %color \OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 myplot\OMS/cmsy/m/n/
+10 f\OT1/cmr/m/n/10 file\OMS/cmsy/m/n/10 gf\OT1/cmr/m/n/10 label\OMS/cmsy/m/n/1
+0 gf\OT1/cmr/m/n/10 params\OMS/cmsy/m/n/10 g\OT1/cmr/m/n/10 #l
+ []
+
+
+Overfull \hbox (47.57495pt too wide) in paragraph at lines 1265--1278
+\OT1/cmr/m/n/10 used as a place-holder in the com-pleter. \OMS/cmsy/m/n/10 nfg\
+OT1/cmr/m/n/10 myplot\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 file\OMS/cmsy/m/n/10 gf\
+OT1/cmr/m/n/10 label1%labeldef\OMS/cmsy/m/n/10 gf\OT1/cmr/m/n/10 label2%labelde
+f\OMS/cmsy/m/n/10 g
+ []
+
+
+Overfull \hbox (36.13979pt too wide) in paragraph at lines 1286--1292
+[]\OT1/cmr/m/n/10 %appdata%\OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 texstudio\OMS/cm
+sy/m/n/10 nfg\OT1/cmr/m/n/10 completion\OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 user
+ or .con-fig/texstudio/completion/user
+ []
+
+
+Overfull \hbox (21.91748pt too wide) in paragraph at lines 1286--1292
+\OT1/cmr/m/n/10 user gen-er-ated cwls built-in %ap-p-data%\OMS/cmsy/m/n/10 nfg\
+OT1/cmr/m/n/10 texstudio\OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 completion\OMS/cmsy
+/m/n/10 nfg\OT1/cmr/m/n/10 autogenerated
+ []
+
+
+Overfull \hbox (2.16745pt too wide) in paragraph at lines 1293--1299
+[]\OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 begin\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 ta
+bular\OMS/cmsy/m/n/10 gf\OT1/cmr/m/n/10 ll\OMS/cmsy/m/n/10 g \OT1/cmr/m/n/10 a&
+b\OMS/cmsy/m/n/10 nfgnfg \OT1/cmr/m/n/10 c&d\OMS/cmsy/m/n/10 nfgnfg nfg\OT1/cmr
+/m/n/10 end\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 tabular\OMS/cmsy/m/n/10 g \OT1/cmr
+/m/n/10 Place the cur-
+ []
+
+
+Overfull \hbox (1.7064pt too wide) in paragraph at lines 1300--1306
+[]\OT1/cmr/m/n/10 fullyframed[]firstBold ful-lyframed[]longtable plain[]tabular
+ plain[]tabularx row-
+ []
+
+[31]
+Overfull \hbox (25.3065pt too wide) in paragraph at lines 1307--1313
+[]\OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 begin\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 ta
+bular\OMS/cmsy/m/n/10 gf\OT1/cmr/m/n/10 |l|l|\OMS/cmsy/m/n/10 g nfg\OT1/cmr/m/n
+/10 hline \OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 textbf\OMS/cmsy/m/n/10 f\OT1/cmr/
+m/n/10 a\OMS/cmsy/m/n/10 g\OT1/cmr/m/n/10 &\OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 
+textbf\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 b\OMS/cmsy/m/n/10 gnfgnfg nfg\OT1/cmr/m
+/n/10 hline
+ []
+
+
+Overfull \hbox (18.35255pt too wide) in paragraph at lines 1319--1327
+\OT1/cmr/m/n/10 ta-ble us-ing al-ter-nate col-ors for rows. <br> <code>\OMS/cms
+y/m/n/10 nfg\OT1/cmr/m/n/10 usepackage[table]\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 
+xcolor\OMS/cmsy/m/n/10 g\OT1/cmr/m/n/10 </code>
+ []
+
+
+Overfull \hbox (24.66757pt too wide) in paragraph at lines 1335--1354
+\OT1/cmr/m/n/10 the ta-ble def-i-ni-tion (ll -> 'l' 'l') println("\OMS/cmsy/m/n
+/10 nfgnfg\OT1/cmr/m/n/10 begin\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 tabular\OMS/cm
+sy/m/n/10 gf\OT1/cmr/m/n/10 "+arDef.join("")+"\OMS/cmsy/m/n/10 g\OT1/cmr/m/n/10
+ ")
+ []
+
+
+Overfull \hbox (37.59343pt too wide) in paragraph at lines 1335--1354
+\OT1/cmr/m/n/10 ta-ble var line=tab[i]; // line is a list of all columns of row
+[i] for(var j=0;j<line.length;j++)\OMS/cmsy/m/n/10 f
+ []
+
+
+Overfull \hbox (85.77861pt too wide) in paragraph at lines 1355--1385
+[]\OT1/cmr/m/n/10 function print(str)\OMS/cmsy/m/n/10 f \OT1/cmr/m/n/10 cur-sor
+.insertText(str) \OMS/cmsy/m/n/10 g \OT1/cmr/m/n/10 func-tion println(str)\OMS/
+cmsy/m/n/10 f \OT1/cmr/m/n/10 cur-sor.insertText(str+"\OMS/cmsy/m/n/10 nfg\OT1/
+cmr/m/n/10 n")
+ []
+
+
+Overfull \hbox (125.36241pt too wide) in paragraph at lines 1355--1385
+\OMS/cmsy/m/n/10 g \OT1/cmr/m/n/10 if(env=="tabularx")\OMS/cmsy/m/n/10 f \OT1/c
+mr/m/n/10 println("\OMS/cmsy/m/n/10 nfgnfg\OT1/cmr/m/n/10 begin\OMS/cmsy/m/n/10
+ f\OT1/cmr/m/n/10 tabularx\OMS/cmsy/m/n/10 gfnfgnfg\OT1/cmr/m/n/10 linewidth\OM
+S/cmsy/m/n/10 gf\OT1/cmr/m/n/10 |"+defSplit.join("|")+"|\OMS/cmsy/m/n/10 g\OT1/
+cmr/m/n/10 ")
+ []
+
+
+Overfull \hbox (78.72331pt too wide) in paragraph at lines 1355--1385
+\OMS/cmsy/m/n/10 g\OT1/cmr/m/n/10 else\OMS/cmsy/m/n/10 f \OT1/cmr/m/n/10 printl
+n("\OMS/cmsy/m/n/10 nfgnfg\OT1/cmr/m/n/10 begin\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/1
+0 "+env+"\OMS/cmsy/m/n/10 gf\OT1/cmr/m/n/10 |"+defSplit.join("|")+"|\OMS/cmsy/m
+/n/10 g\OT1/cmr/m/n/10 ") \OMS/cmsy/m/n/10 g \OT1/cmr/m/n/10 println("\OMS/cmsy
+/m/n/10 nfgnfg\OT1/cmr/m/n/10 hline")
+ []
+
+
+Overfull \hbox (56.38068pt too wide) in paragraph at lines 1355--1385
+\OT1/cmr/m/n/10 var col=line[j]; var mt=col.match(/^\OMS/cmsy/m/n/10 nfgnfg\OT1
+/cmr/m/n/10 textbf/); if(i==0 && !mt) print("\OMS/cmsy/m/n/10 nfgnfg\OT1/cmr/m/
+n/10 textbf\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 ")
+ []
+
+
+Overfull \hbox (61.50102pt too wide) in paragraph at lines 1355--1385
+\OT1/cmr/m/n/10 print(line[j]) if(i==0 && !mt) print("\OMS/cmsy/m/n/10 g\OT1/cm
+r/m/n/10 ") if(j<line.length-1) print("&") \OMS/cmsy/m/n/10 g \OT1/cmr/m/n/10 p
+rintln("\OMS/cmsy/m/n/10 nfgnfgnfgnfg
+ []
+
+[32] [33]
+Overfull \hbox (64.7508pt too wide) in paragraph at lines 1412--1416
+\OT1/cmr/m/n/10 Line-Mark=""> <se-quence paren-the-sis="round:open" paren-the-s
+isWeight="00">\OMS/cmsy/m/n/10 nfg\OT1/cmr/m/n/10 (</sequence>
+ []
+
+
+Overfull \hbox (5.47296pt too wide) in paragraph at lines 1420--1421
+[]\OT1/cmr/m/n/10 <sequence id="python/number" format="python:number">[0-9]+</s
+equence> 
+ []
+
+
+Overfull \hbox (1.91743pt too wide) in paragraph at lines 1422--1430
+[]\OT1/cmr/m/n/10 <list id="python/keyword" for-mat="python:keyword"> <word>ret
+urn</word>
+ []
+
+
+Overfull \hbox (2.63956pt too wide) in paragraph at lines 1422--1430
+\OT1/cmr/m/n/10 <word>if</word> <word>elif</word> <word>else</word> </list> </Q
+NFA> python.qxf 
+ []
+
+
+Overfull \hbox (30.80638pt too wide) in paragraph at lines 1431--1454
+\OT1/cmr/m/n/10 id="python:keyword" > <bold>false</bold> <italic>false</italic>
+ <over-line>false</overline>
+ []
+
+
+Overfull \hbox (62.38966pt too wide) in paragraph at lines 1431--1454
+\OT1/cmr/m/n/10 <un-der-line>false</underline> <strike-out>false</strikeout> <w
+ave-Un-der-line>false</waveUnderline>
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1460.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1460.
+(./tmp.bbl) [34] (./tmp.aux) ) 
+Here is how much of TeX's memory you used:
+ 2261 strings out of 479023
+ 33814 string characters out of 5863351
+ 348129 words of memory out of 5000000
+ 19729 multiletter control sequences out of 15000+600000
+ 405016 words of font info for 32 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,7n,78p,947b,225s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-su
+per/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
+fb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/tex
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2020/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2020/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmti10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/
+sfrm1000.pfb>
+Output written on tmp.pdf (34 pages, 554003 bytes).
+PDF statistics:
+ 168 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
